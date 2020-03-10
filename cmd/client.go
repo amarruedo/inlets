@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/inlets/inlets/pkg/client"
+	"github.com/amarruedo/inlets/pkg/client"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

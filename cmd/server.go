@@ -10,7 +10,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/inlets/inlets/pkg/server"
+	"github.com/amarruedo/inlets/pkg/server"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

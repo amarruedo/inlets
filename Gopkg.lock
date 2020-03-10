@@ -136,20 +136,15 @@
   version = "v0.0.8"
 
 [[projects]]
-  branch = "master"
-  digest = "1:bd8e4b9afe1bc3ef228e29aba3487ebe40d3d343b2c94ab0a74e5c30fda5cb99"
-  name = "github.com/rancher/norman"
-  packages = ["metrics"]
-  pruneopts = "UT"
-  revision = "5b9227fe3222a97ba5e7fe399e88a165da8063d9"
-
-[[projects]]
-  digest = "1:1e021773114790546f06a7708b3d8c21eb4c578a22017f7bc98fa3ddf20a8cad"
+  digest = "1:69f68eb300f03719438887fbc92f92e4653a2e5e25fb0a279869561ae62b0986"
   name = "github.com/rancher/remotedialer"
-  packages = ["."]
+  packages = [
+    ".",
+    "metrics",
+  ]
   pruneopts = "UT"
-  revision = "c5a31e696884036dcf2202efd3a7121df912bbfe"
-  version = "v0.2.3"
+  revision = "e21c829274a00c5adbf28b4166ca40eae19b83c8"
+  version = "v0.2.5"
 
 [[projects]]
   digest = "1:e4c72127d910a96daf869a44f3dd563b86dbe6931a172863a0e99c5ff04b59e4"

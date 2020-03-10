@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/inlets/inlets/pkg/transport"
+	"github.com/amarruedo/inlets/pkg/transport"
 	"github.com/rancher/remotedialer"
 	"github.com/twinj/uuid"
 )
